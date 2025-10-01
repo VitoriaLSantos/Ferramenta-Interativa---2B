@@ -1,17 +1,17 @@
 criaCartao(
-    '?',
-    'Quem não coloca acento nas frases?',
-    'A EMANUELLY'
+    'Física',
+    'Qual a primeia Lei de Newton?',
+    'Lei da Inércia'
 )
 
 criaCartao(
-    '??',
-    'Quem é a pessoa mais chata da sala?',
-    'A Emanuelly'
+    'Física',
+    'A segunda?',
+    'Princípio Fundamental da Dinâmica'
 )
 
 criaCartao(
-    '???',
-    'Quem é a mais inteligente do 2°B? ',
-    'A Vitória'
+    'Física',
+    'E a terceira? ',
+    'Lei da Ação e Reação'
 )
