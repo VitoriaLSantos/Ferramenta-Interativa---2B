@@ -1,17 +1,17 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    '?',
+    'Quem não coloca acento nas frases?',
+    'A EMANUELLY'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    '??',
+    'Quem é a pessoa mais chata da sala?',
+    'A Emanuelly'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    '???',
+    'Quem é a mais inteligente do 2°B? ',
+    'A Vitória'
 )
